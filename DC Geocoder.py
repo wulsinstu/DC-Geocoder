@@ -4,6 +4,7 @@ Created on Thu Feb 11 12:26:37 2021
 
 @author: Swulsin
 """
+# This code uses the MAR Web Services from Open Data DC, outlined here: https://opendata.dc.gov/pages/mar-webservices
 
 import time as t
 import requests
